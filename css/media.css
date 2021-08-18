@@ -206,6 +206,13 @@
         width: 100%;
         margin-bottom: 40px;
     }
+    
+    .items ul li a{
+    display: block;
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    }
     .second-banner h1{
         font-size: 30px;
         font-weight: 700;
